@@ -76,7 +76,7 @@
     "component-playground": "^3.2.1",
     "copyfiles": "^2.4.1",
     "css-loader": "^6.7.1",
-    "es-check": "^6.2.1",
+    "es-check": "^9.5.4",
     "eslint": "^8.19.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-import": "^2.26.0",
